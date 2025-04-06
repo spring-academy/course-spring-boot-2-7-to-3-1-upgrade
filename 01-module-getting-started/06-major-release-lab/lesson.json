@@ -1,0 +1,12 @@
+{
+  "id": "spring-boot-2-7-to-3-1-upgrade-getting-started-mrc-lab",
+  "slug": "spring-boot-2-7-to-3-1-upgrade-getting-started-mrc-lab",
+  "title": "Lab: Major Release Considerations",
+  "status": "live",
+  "type": "lab",
+  "duration": 900,
+  "settings": {
+    "manualCompletion": true,
+    "educates": "spr-upgrade-27-31-02-mrc"
+  }
+}

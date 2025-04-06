@@ -1,0 +1,1 @@
+In this course, you'll learn the benefits of upgrading from Spring Boot 2.7 to Spring Boot 3.1, and master our systematic and pragmatic approach to the upgrade process. Not only that, you'll use our hands-on lab environment to perform a real Spring Boot 2.7 to 3.1 upgrade for each step.

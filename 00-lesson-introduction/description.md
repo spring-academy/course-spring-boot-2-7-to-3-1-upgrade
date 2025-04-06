@@ -1,0 +1,1 @@
+What is the general approach you should take to a Spring Boot 2.7 to 3.1 upgrade?

@@ -1,0 +1,1 @@
+You'll tackle upgrading Spring Security as its own dedicated effort.

@@ -1,0 +1,10 @@
+name: Update Spring Security
+modules:
+  activate:
+    - 00-overview
+    - 01-review
+    - 02-update-spring-security-version
+    - 03-http-auth
+    - 04-csrf
+    - 05-baseline
+    - 99-summary

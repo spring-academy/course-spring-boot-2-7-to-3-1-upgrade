@@ -1,0 +1,30 @@
+{
+  "id": "spring-boot-2-7-to-3-1-upgrade-getting-started-prep",
+  "slug": "spring-boot-2-7-to-3-1-upgrade-getting-started-prep",
+  "title": "Preparing to upgrade",
+  "status": "live",
+  "type": "article",
+  "entitlements": ["auth"],
+  "duration": 900,
+  "settings": {
+    "manualCompletion": true,
+    "links": [
+      {
+        "text": "Spring Boot 3.0 Migration",
+        "url": "https://github.com/spring-projects/spring-boot/wiki/Spring-Boot-3.0-Migration-Guide"
+      },
+      {
+        "text": "Upgrading Spring Boot 2.7 to 3.0",
+        "url": "https://github.com/spring-projects/spring-boot/wiki/Spring-Boot-3.0-Release-Notes#upgrading-from-spring-boot-27"
+      },
+      {
+        "text": "Upgrading Spring Boot 3.0 to 3.1",
+        "url": "https://github.com/spring-projects/spring-boot/wiki/Spring-Boot-3.1-Release-Notes#upgrading-from-spring-boot-30"
+      },
+      {
+        "text": "Spring Boot Supported Versions and End-of-Life Schedule",
+        "url": "https://spring.io/projects/spring-boot#support"
+      }
+    ]
+  }
+}

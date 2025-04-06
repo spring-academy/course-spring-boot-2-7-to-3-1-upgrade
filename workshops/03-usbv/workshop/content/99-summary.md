@@ -1,0 +1,1 @@
+In this lab you took the first concrete step to upgrading our Spring Boot application from version 2.7 to to 3.1. In fact, because of our major-version prep work the code is compiling!
