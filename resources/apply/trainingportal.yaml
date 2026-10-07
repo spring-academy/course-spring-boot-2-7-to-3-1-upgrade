@@ -10,37 +10,36 @@ spec:
       workshop: true
     sessions:
       maximum: 15
+    theme:
+      frame:
+        ancestors:
+        - https://spring.academy
+        - https://*.spring.academy
+        - https://*.vmware.com
+        - https://*.broadcom.com
+        - https://spring-staging.academy
+        - https://spring-academy.broadcom.com
+        - https://spring-academy-verify.broadcom.com
+        - https://spring-academy-qa.broadcom.net
+        - https://spring-academy-dev.broadcom.net
+        - http://localhost:8080
+    workshop:
+      defaults:
+        expires: 60m
+        orphaned: 5m
+        reserved: ${TRAINING_PORTAL_RESERVED}
+  analytics:
+    google:
+      trackingId: "${ANALYTICS_GOOGLE_ID}"
+    clarity:
+      trackingId: "${ANALYTICS_CLARITY_ID}"
   workshops:
     # The following are the items that should be added to the trainingportal in the deployment environment.
     - name: spr-upgrade-27-31-01-kgs
-      expires: 60m
-      orphaned: 5m
-      reserved: 0
     - name: spr-upgrade-27-31-02-mrc
-      expires: 60m
-      orphaned: 5m
-      reserved: 0
     - name: spr-upgrade-27-31-03-usbv
-      expires: 60m
-      orphaned: 5m
-      reserved: 0
     - name: spr-upgrade-27-31-04-usd
-      expires: 60m
-      orphaned: 5m
-      reserved: 0
     - name: spr-upgrade-27-31-05-unsd
-      expires: 60m
-      orphaned: 5m
-      reserved: 0
     - name: spr-upgrade-27-31-06-uss
-      expires: 60m
-      orphaned: 5m
-      reserved: 0
     - name: spr-upgrade-27-31-07-rtt
-      expires: 60m
-      orphaned: 5m
-      reserved: 0
     - name: spr-upgrade-27-31-08-dpre
-      expires: 60m
-      orphaned: 5m
-      reserved: 0
